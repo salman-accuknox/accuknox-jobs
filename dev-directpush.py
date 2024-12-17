@@ -2,7 +2,7 @@
 
 '''Common Key Types with obvious names'''
 
-# AWS
+# AWSkey
 ## AWS Access Key ID
 AWS_ACCESS_KEY_ID = 'AKIAIWSXFHRM7F6Z3NWQ'
 
