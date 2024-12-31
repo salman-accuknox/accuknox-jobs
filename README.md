@@ -1,4 +1,4 @@
-# AccuKnox Jobs
+# AccuKnox Jobs.
 
 Set of jobs that integrate with AccuKnox SaaS to provide reporting/assessment.
 
